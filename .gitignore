@@ -59,3 +59,4 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+/ubuntu-bionic-18.04-cloudimg-console.log
