@@ -18,7 +18,7 @@ Vagrant.configure("2") do |config|
   config.vm.provision "shell", inline: <<-SHELL
     sudo apt-get update
     sudo apt-get install -y -qq docker.io docker-compose
-    sudo service docker start
+    sudo gpasswd -a $USER docgit puker
   SHELL
 
 end
