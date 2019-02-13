@@ -11,7 +11,9 @@ Sample project to run docker in a vagrant machine and learn from it.
 6. Add a new redis container to the docker_compose.yaml
 7. Install symfony4 in the source folder and adjust nginx configuration
 8. Change the welcome page to a site driven by the symfony framework.
-9. Setup caching with redis.
+9. Create a Service that fetches the VAT list of EU countires from https://jsonvat.com/.
+10. Print out the list with twig templates on you webiste.
+11. Setup caching with redis and cache the response from https://jsonvat.com/.
 
 ## Hint
 
