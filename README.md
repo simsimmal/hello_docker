@@ -1,5 +1,5 @@
 # hello_docker
-Sample project to run docker in a vagrant machine.
+Sample project to run docker in a vagrant machine and learn from it.
 
 ## Tasks
 
