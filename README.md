@@ -14,6 +14,7 @@ Sample project to run docker in a vagrant machine and learn from it.
 9. Create a Service that fetches the VAT list of EU countires from https://jsonvat.com/.
 10. Print out the list with twig templates on you webiste.
 11. Setup caching with redis and cache the response from https://jsonvat.com/.
+12. Create SEO friendly meta information for your site.
 
 ## Hint
 
