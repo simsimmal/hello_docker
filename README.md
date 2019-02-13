@@ -12,3 +12,7 @@ Sample project to run docker in a vagrant machine.
 7. Install symfony4 in the source folder and adjust nginx configuration
 8. Change the welcome page to a site driven by the symfony framework.
 9. Setup caching with redis.
+
+## Hint
+
+When you are using vagrant, you have to connect to the VM with "vagrant ssh". Then open the path "/vagrant" and start from there.
